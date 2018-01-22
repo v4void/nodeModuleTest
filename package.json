@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/v4void/nodeModuleTest.git"
+    "url": "git+https://github.com/v4void/nodeModuleTestVoids.git"
   },
   "keywords": [
     "custom",
@@ -18,7 +18,7 @@
   "author": "Mark van heerden v4void@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/v4void/nodeModuleTest/issues"
+    "url": "https://github.com/v4void/nodeModuleTestVoids/issues"
   },
   "dependencies": {
     "cat": "^0.2.0"
