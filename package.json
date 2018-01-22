@@ -1,0 +1,26 @@
+{
+  "name": "nodemoduletest",
+  "version": "0.0.0",
+  "description": "test custom node Module",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/v4void/nodeModuleTest.git"
+  },
+  "keywords": [
+    "custom",
+    "node",
+    "module"
+  ],
+  "author": "Mark van heerden v4void@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/v4void/nodeModuleTest/issues"
+  },
+  "dependencies": {
+    "cat": "^0.2.0"
+  }
+}
