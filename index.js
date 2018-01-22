@@ -1,3 +1,3 @@
-module.exports = function(width, height) {
+module.exports = function(width, height) {    
     return width * height;
   };
