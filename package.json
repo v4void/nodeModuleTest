@@ -1,6 +1,6 @@
 {
   "name": "nodemoduletestvoids",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "test custom node Module",
   "main": "index.js",
   "scripts": {
