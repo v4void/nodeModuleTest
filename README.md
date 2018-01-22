@@ -2,6 +2,8 @@
 
 this is a test node module, i wouldnt advise using it anywhere :P
 
+npm i nodemoduletestvoids
+
 ### Use
 
 You can use node repl to test the functionality.
